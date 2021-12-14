@@ -10,7 +10,7 @@ arXiv preprint arXiv:2110.13057. 2021 Oct 25.
 ```
 
 ![Teaser](teaser.png)
-*Batch of 64 ImageNet images reconstructed with imprint module containing 128 bins placed in front of a ResNet-18. Average PSNR: 70.94.*
+*Left: batch of 64 ImageNet images. Right: Images reconstructed with imprint module containing 128 bins placed in front of a ResNet-18. Average PSNR: 70.94.*
 
 ### Abstract: 
 Federated learning has quickly gained popularity with its promises of increased
